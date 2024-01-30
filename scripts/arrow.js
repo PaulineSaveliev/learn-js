@@ -1,3 +1,5 @@
+
+this.firstName = 'Jane';
 const o = {
     msg: 'An object',
     person: {
